@@ -1,4 +1,4 @@
-package com.arv.demeta;
+package com.arv.demeta.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
